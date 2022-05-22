@@ -1,2 +1,14 @@
+@import './utils/variables';
+@import './base/normalize';
+@import './utils/common-styles';
 @import './components/header';
 @import './components/hero';
+@import './components/modal';
+@import './components/checkbox';
+@import './components/clients';
+@import './components/feature';
+@import './components/out-team';
+@import './components/products';
+@import './components/footer';
+@import './components/portfolio/card-set';
+@import './components/portfolio/filters';
