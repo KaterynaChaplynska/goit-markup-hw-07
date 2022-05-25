@@ -72,5 +72,9 @@
     .social-media__icon {
         display: block;
         fill: currentColor;
+
+        &.social-media__icon--modified {
+                fill: generalColor;
+
     }
 }
