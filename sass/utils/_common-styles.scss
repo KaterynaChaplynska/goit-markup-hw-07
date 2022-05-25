@@ -16,17 +16,14 @@ p {
     margin: 0;
     padding: 0;
 }
-
 a {
     text-decoration: none;
 }
-
 ul {
     list-style: none;
     padding: 0;
     margin: 0;
 }
-
 .container {
     width: 1200px;
     padding-left: 15px;
@@ -45,18 +42,15 @@ ul {
     font-size: 26px;
     line-height: 1.19;
     text-decoration: none;
-
     &__part {
         color: $accentColor;
     }
 }
-
 .is-hidden {
     opacity: 0;
     pointer-events: none;
     visibility: hidden;
 }
-
 .button {
     text-align: center;
     vertical-align: middle;
@@ -87,12 +81,10 @@ ul {
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
-
 .section {
     padding-top: 94px;
     padding-bottom: 94px;
 }
-
 .section-title {
     color: $mainTitleColor;
     font-weight: 700;
@@ -101,7 +93,6 @@ ul {
     text-align: center;
     margin-bottom: 50px;
 }
-
 .reuse__title {
     display: inline-block;
     font-weight: 700;

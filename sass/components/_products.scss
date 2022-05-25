@@ -1,6 +1,5 @@
 .product {
     display: flex;
-
     .product__item {
         position: relative;
 
@@ -8,11 +7,9 @@
             margin-right: 30px;
         }
     }
-
     .product__image {
         display: block;
     }
-
     .product__wrapper {
         position: absolute;
         padding: 27px 0 27px 0;
